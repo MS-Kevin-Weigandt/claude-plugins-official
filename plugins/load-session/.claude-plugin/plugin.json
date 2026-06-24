@@ -2,7 +2,8 @@
   "name": "load-session",
   "description": "Load context from a previous Claude Code session in this project. Use when starting a new session to quickly restore context of what was built, discussed, and decided.",
   "author": {
-    "name": "Anthropic",
-    "email": "support@anthropic.com"
-  }
+    "name": "Kevin Weigandt",
+    "email": "kevin.weigandt@maxisistemas.com.ar"
+  },
+  "homepage": "https://github.com/MS-Kevin-Weigandt/load-session-plugin"
 }
